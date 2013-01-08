@@ -126,7 +126,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/background" >
-
                <ImageButton
                    android:id="@+id/add_emoji"
                    style="?android:attr/borderlessButtonStyle"
